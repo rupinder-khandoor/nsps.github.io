@@ -1,14 +1,12 @@
-# How do I self-enrol in a course?
+# Self-enrol for CATS training course?
 
-## Step 1. [**Visit site**](https://ese.gndec.ac.in/nps/enrol/index.php?id=263)
-### At the bottom of it enter enrolment key (it may ask for login, if you are logged-in already).
-#### Step 2. Give enrolment keys corresponding to 1st letter of first name.
-#### Enrolment Keys :-
-1. Student whose 1st name starts with letter A through G, will use enrolment: My1stName(a-g)
-2. Student whose 1st name starts with letter H through K, will use enrolment: My1stName(h-k)
-3. Student whose 1st name starts with letter L through P, will use enrolment: My1stName(l-p)
-4. Student whose 1st name starts with letter Q through Z, will use enrolment: My1stName(q-z)
-5. Teacher whose 1st name starts with letter A through G, will use enrolment: My1stName(a-g)
-6. Teacher whose 1st name starts with letter H through K, will use enrolment: My1stName(h-k)
-6. Teacher whose 1st name starts with letter L through P, will use enrolment: My1stName(l-p)
-6. Teacher whose 1st name starts with letter Q through Z, will use enrolment: My1stName(q-z)
+At the bottom of [https://ese.gndec.ac.in/nps/enrol/index.php?id=263](https://ese.gndec.ac.in/nps/enrol/index.php?id=263)
+enter enrolment key (it may ask for login, if you are not logged-in already). Select enrolmrnt key from the table given 
+below: 
+
+| Sr. No | First name starts with | Example | Key |
+|-----|-----|-----|-----|
+| 1. | A through G | Amrit Kaur Gill | My1stName(a-g) |
+| 2. | H through K | Inder Kumar | My1stName(h-k) |
+| 3. | L through P | Onkar Singh Rai | My1stName(l-p) |
+| 4. | Q through Z | Satindepal Singh | My1stName(q-z) |
