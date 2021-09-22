@@ -2,7 +2,7 @@
 
 ## Step 1. [**Visit site**](https://ese.gndec.ac.in/nps/enrol/index.php?id=263)
 ### At the bottom of it enter enrolment key (it may ask for login, if you are logged-in already).
-#### Step 2. And give enrolment keys corresponding to 1st letter of first name.
+#### Step 2. Give enrolment keys corresponding to 1st letter of first name.
 #### Enrolment Keys :-
 1. Student whose 1st name starts with letter A through G, will use enrolment: My1stName(a-g)
 2. Student whose 1st name starts with letter H through K, will use enrolment: My1stName(h-k)
